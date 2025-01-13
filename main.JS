@@ -24,11 +24,36 @@ let text3 = " баллы:";
 let text4 = "87.75";
 console.log(`${text1} ${text2} ${text3} ${text4}`);
 
-for (let i = 4; i <= 4; i += 1) {
-  for (let j = 1; j <= 10; j += 1) {
-    console.log(`${i} x ${j} = ${i * j}`);
-  }
-}
+let Number1 = "1 x 4 = 4";
+console.log(Number1);
+
+let Number2 = "2 x 4 = 8";
+console.log(Number2);
+
+let Number3 = "3 x 4 = 12";
+console.log(Number3);
+
+let Number4 = "4 x 4 = 16";
+console.log(Number4);
+
+let Number5 = "5 x 4 = 20";
+console.log(Number5);
+
+let Number6 = "6 x 4 = 24";
+console.log(Number6);
+
+let Number7 = "7 x 4 = 28";
+console.log(Number7);
+
+let Number8 = "8 x 4 = 32";
+console.log(Number8);
+
+let Number9 = "9 x 4 = 36";
+console.log(Number9);
+
+let Number10 = "10 x 4 = 40";
+console.log(Number10);
+
 
 alert("Вы успешно зарегистрировались!");
 
